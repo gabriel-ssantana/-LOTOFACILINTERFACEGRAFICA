@@ -1,6 +1,6 @@
 # -LOTOFACILINTERFACEGRAFICA
 
-<img src="https://github.com/gabriel-ssantana/-LOTOFACILINTERFACEGRAFICA/blob/main/Lotof%C3%A1cilGIF.gif">
+<img src="https://github.com/gabriel-ssantana/-LOTOFACILINTERFACEGRAFICA/blob/main/lotofacilintGIF.gif">
 
 # Loto Fácil
 
